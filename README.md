@@ -1,6 +1,6 @@
 # TicTacToe
 
-An unbeatable tic-tac-toe game AI using the **min-max algorithm**. Uses **alpha-beta pruning** to
+An unbeatable AI tic-tac-toe game using the **min-max algorithm**. Uses **alpha-beta pruning** to
 decrease the number of nodes that are evaluated by the min-max algorithm in its search tree and **depth in score** for smarter moves making the AI fast.
 
 ### Instructions to run:
